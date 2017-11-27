@@ -1,0 +1,10 @@
+C:\ispLEVER_Classic2_0\synpbase\bin64\m_cpld.exe  -prodtype  synplify_pro  -encrypt  -pro  -rundir  C:\users\bragesae\documents\byggern\galic\galic  -part ispGAL22LV10  -package LJ  -grade -4   -areadelay 0 -minc -RWCheckOnRam 1 -summaryfile C:\users\bragesae\documents\byggern\galic\galic\synlog\report\address_decoder_fpga_mapper.xml -top_level_module  address_decoder  -multisrs  -oedif  C:\users\bragesae\documents\byggern\galic\galic\address_decoder.edi  -freq 1.000  C:\users\bragesae\documents\byggern\galic\galic\synwork\address_decoder_mult.srs  -devicelib  C:\ispLEVER_Classic2_0\synpbase\lib\cpld\lattice.v  -ologparam  C:\users\bragesae\documents\byggern\galic\galic\syntmp\address_decoder.plg  -osyn  C:\users\bragesae\documents\byggern\galic\galic\address_decoder.srm  -prjdir  c:\users\bragesae\documents\byggern\galic\galic\  -prjname  address_decoder  -log  C:\users\bragesae\documents\byggern\galic\galic\synlog\address_decoder_fpga_mapper.srr 
+rc:0 success:1
+C:\users\bragesae\documents\byggern\galic\galic\address_decoder.edi|o|1474390263|6217
+C:\users\bragesae\documents\byggern\galic\galic\synwork\address_decoder_mult.srs|i|1474390263|1933
+C:\ispLEVER_Classic2_0\synpbase\lib\cpld\lattice.v|i|1401260784|210986
+C:\users\bragesae\documents\byggern\galic\galic\syntmp\address_decoder.plg|o|1474390263|0
+C:\users\bragesae\documents\byggern\galic\galic\address_decoder.srm|o|1474390263|4192
+C:\users\bragesae\documents\byggern\galic\galic\synlog\address_decoder_fpga_mapper.srr|o|1474390263|1066
+C:\ispLEVER_Classic2_0\synpbase\bin\m_cpld.exe|i|1399365684|7067648
+C:\ispLEVER_Classic2_0\synpbase\bin64\m_cpld.exe|i|1399368522|8049664

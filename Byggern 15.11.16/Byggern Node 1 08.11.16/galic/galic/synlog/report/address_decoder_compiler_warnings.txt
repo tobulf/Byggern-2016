@@ -1,0 +1,2 @@
+@W: CL159 :"C:\users\bragesae\documents\byggern\galic\galic\galic.vhd":10:2:10:3|Input a8 is unused
+
